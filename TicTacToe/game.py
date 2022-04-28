@@ -6,7 +6,6 @@ class TicTacToe:
     def print_board(self):
         pass
     
-    @staticmethod
     def print_board_nums():
         # it's going to print 0 | 1 | 2 , etc (tell us what number corresponds to what position)
         pass

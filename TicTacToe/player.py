@@ -16,6 +16,7 @@ class RandomComputerPlayer(Player):
         # get a random valid spot for our next move
         pass
 
+
 class HumanPlayer(Player):
     def __init__(self, letter):
         pass
